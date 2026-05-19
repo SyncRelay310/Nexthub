@@ -1,0 +1,17 @@
+sarvan Singh 
+To add a folder to a GitHub repository from browser:
+
+Open your repository on GitHub
+Go inside the repository (example: Nexthub)
+Click Add file → Create new file
+In the filename box, create folder using /
+
+Example:
+
+logos/readme.txt
+
+This creates:
+
+folder = logos
+file = readme.txt
+Scroll down → Commit changes

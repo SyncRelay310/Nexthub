@@ -53,17 +53,17 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
 #EXTINF:-1  tvg-id="IndiaNews.in@SD" tvg-logo="https://i.imgur.com/l54AGtz.png" group-title="India",India News HD
 https://newsxott.in/hls/indianewsnational.m3u8
-#EXTINF:-1  tvg-id="IndiaToday.in@SD" tvg-logo="https://i.postimg.cc/bJ3J8d8z/indiatoday.png" group-title="India",India Today
+#EXTINF:-1  tvg-id="IndiaToday.in@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20240131T032450SQUARE.png_20240131032451.png" group-title="India",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1  tvg-id="IndiaTV.in@SD" tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="India",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1  tvg-id="Mirror Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Mirror_Now_2022.png/revision/latest?cb=20220503071857" group-title="India",Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
-#EXTINF:-1  tvg-id="NDTV24x7.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="India",NDTV 24X7
+#EXTINF:-1  tvg-id="NDTV24x7.in@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20240131T032458SQUARE.png_20240131032459.png" group-title="India",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-#EXTINF:-1  tvg-id="NDTV.India.in" tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="India",NDTV India
+#EXTINF:-1  tvg-id="NDTV.India.in" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800002WJ_20260506T005123SQUARE.png" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
-#EXTINF:-1  tvg-id="NDTVIndia.in@SD" tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="India",NDTV Profit
+#EXTINF:-1  tvg-id="NDTVIndia.in@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png" group-title="India",NDTV Profit
 https://dai.google.com/linear/hls/pb/event/QuU6z3GSTDaXuLL9Hs5A5Q/stream/94054cd6-6286-4944-8b5b-6199726a76bb:TPE2/master.m3u8
 #EXTINF:-1  tvg-id="News1India.in@SD" tvg-logo="https://i.imgur.com/J3EWn2J.png" group-title="India",News 1 India
 http://202.164.50.194:8000/play/a02z/index.m3u8

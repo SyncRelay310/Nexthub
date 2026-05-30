@@ -13,7 +13,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 #EXTINF:-1  tvg-id="CGTN.cn@SD" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/CGTN.png" group-title="Github",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1  tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Github",DW English (1080p)
+#EXTINF:-1  tvg-id="DW.de@English" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/DW%20News.png" group-title="Github",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1  tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/EuroNewsD.png" group-title="Github",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8

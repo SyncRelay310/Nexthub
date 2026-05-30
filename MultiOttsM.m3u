@@ -11,11 +11,11 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Github",BBC News USA
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
-#EXTINF:-1  tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="Github",CGTN (1080p)
+#EXTINF:-1  tvg-id="CGTN.cn@SD" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/CGTN.png" group-title="Github",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1  tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Github",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1  tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" group-title="Github",Euronews English
+#EXTINF:-1  tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/EuroNewsD.png" group-title="Github",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="France24.fr@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="Github",France 24 English (1080p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8

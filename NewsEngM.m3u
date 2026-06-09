@@ -31,5 +31,13 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1  tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="Github",Press TV (720p)
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1  tvg-id="mjh-bbc-news-fast" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" group-title="AU",BBC AU TV1
+https://i.mjh.nz/.r/bbc-news-fast.m3u8
+#EXTINF:-1  tvg-id="mjh-bbc-news" tvg-logo="https://i.mjh.nz/.images/bbc-news.png" group-title="AU",BBC AU TV2
+https://i.mjh.nz/.r/bbc-news.m3u8
+#EXTINF:-1  tvg-id="mjh-bbc-news-fast" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" group-title="AU",BBC AU TV3
+https://i.mjh.nz/.r/bbc-news-fast.m3u8
+#EXTINF:-1  tvg-id="mjh-bbc-news" tvg-logo="https://i.mjh.nz/.images/bbc-news.png" group-title="AU",BBC AU TV4
+https://i.mjh.nz/.r/bbc-news.m3u8
 #EXTINF:-1  tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="Github",Press TV Link
 https://live.presstv.ir/hls/presstv.m3u8

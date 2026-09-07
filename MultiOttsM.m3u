@@ -9,8 +9,10 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/BBC_News.png" group-title="Github",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Github",BBC News SK
+#EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Github",BBC News UR
 http://stream.mcquack.net/85/index.m3u8
+#EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Github",BBC News SK
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1  tvg-id="CGTN.cn@SD" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/CGTN.png" group-title="Github",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1  tvg-id="LgGb" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CNNi_Logo_200x200.png" group-title="Github",CNNi LgGb
@@ -849,6 +851,8 @@ https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
 https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 #EXTINF:-1  tvg-id="61e9af6bfbbcc6000700119b" tvg-logo="https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png" group-title="Pluto",WeatherNation Los Angeles
 https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
+#EXTINF:-1  tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" group-title="Roku",CBC News
+https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
 #EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6183f9f73a64394cf3c55690605af2a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765822678156_ROKU_BBC_NEWS_LOGO_260x147_WHITE.png" group-title="Roku",BBC News US
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 #EXTINF:-1  tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" group-title="Roku",CBC News
@@ -1001,5 +1005,3 @@ https://ve-uhd-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uhd_stre
 https://ve-uhd-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
 #EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/BBC_News.png" group-title="BBC Play",BBC UHD 4
 https://ve-uhd-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
-#EXTINF:-1  tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" group-title="Roku",CBC News
-https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8

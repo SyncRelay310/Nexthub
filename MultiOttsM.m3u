@@ -13,6 +13,10 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://stream.mcquack.net/85/index.m3u8
 #EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Github",BBC News SK
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Github",BBC News UZ
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Github",BBC News IN
+https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 #EXTINF:-1  tvg-id="CGTN.cn@SD" tvg-logo="https://raw.githubusercontent.com/SyncRelay310/Nexthub/refs/heads/main/Logos/CGTN.png" group-title="Github",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1  tvg-id="LgGb" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CNNi_Logo_200x200.png" group-title="Github",CNNi LgGb

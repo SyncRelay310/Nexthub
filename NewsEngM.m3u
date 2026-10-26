@@ -353,12 +353,6 @@ https://i.mjh.nz/.r/sbs-sbs-pop-asia.m3u8
 https://i.mjh.nz/.r/sbs-sbs-pop-desi.m3u8
 #EXTINF:-1  tvg-id="mjh-sbs-sbs-pop-araby" tvg-logo="https://image.pr.sbsod.com/37ad5c21-7dc4-55a9-bfab-0e6d1d8ebcb3" group-title="SBS",SBS Arabic
 https://i.mjh.nz/.r/sbs-sbs-pop-araby.m3u8
-#EXTINF:-1  tvg-id="mjh-sbs-sbs-radio-1" tvg-logo="https://image.pr.sbsod.com/084f19c8-f6dc-5124-a06a-ebcaf8ef38c6" group-title="SBS",SBS Radio 1
-https://i.mjh.nz/.r/sbs-sbs-radio-1.m3u8
-#EXTINF:-1  tvg-id="mjh-sbs-sbs-radio-2" tvg-logo="https://image.pr.sbsod.com/7d5749f1-254e-57ca-923d-2b2b1b33821f" group-title="SBS",SBS Radio 2
-https://i.mjh.nz/.r/sbs-sbs-radio-2.m3u8
-#EXTINF:-1  tvg-id="mjh-sbs-sbs-radio-3" tvg-logo="https://image.pr.sbsod.com/30724f75-f20c-512c-9108-cda06930de39" group-title="SBS",SBS Radio 3
-https://i.mjh.nz/.r/sbs-sbs-radio-3.m3u8
 #EXTINF:-1  tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="News AU",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1  tvg-id="mjh-abc-tv-plus" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" group-title="News AU",ABC Family
